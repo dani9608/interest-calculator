@@ -16,5 +16,5 @@ The following **required** functionalities have been implemented:
 
 You can view and interact with the deployed project at the following URL:
 
-[Live Demo]([https://your-live-demo-url.com](https://interest-calculator-8.netlify.app/))
+[Live Demo]([https://interest-calculator-8.netlify.app/)
 
